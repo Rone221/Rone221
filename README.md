@@ -29,3 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rone221&" alt="rone221" /></p>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/rone221/rone221/output/snake.svg" alt="Snake animation" />
+
