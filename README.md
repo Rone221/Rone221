@@ -40,5 +40,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rone221/rone221/output/snake.svg" alt="Snake animation" />
 
