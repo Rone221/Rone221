@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Laravel**
 
-- 🌱 I’m currently learning **React JS, Node JS, Express JS**
+- 🌱 I’m currently learning **React JS, Laravel, SpringBoot**
 
-- 👨‍💻 All of my projects are available at [](rondev.tech)
+- 👨‍💻 All of my projects are available at [ronedev.tech](rondev.tech)
 
 - 📫 How to reach me **atounkara203@gmail.com**
 
