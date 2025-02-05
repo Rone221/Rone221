@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS, Node JS, Express JS**
 
-- 👨‍💻 All of my projects are available at [rone221.github.io/Portfolio](rondev.tech)
+- 👨‍💻 All of my projects are available at [](rondev.tech)
 
 - 📫 How to reach me **atounkara203@gmail.com**
 
