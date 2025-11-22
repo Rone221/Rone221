@@ -1,77 +1,73 @@
-<h1 align="center">Hi 👋, I'm Arona Tounkara</h1>
-<h3 align="center">An avid full-stack developer</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Arona+Tounkara;Full-Stack+Developer;Laravel+and+Security+Enthusiast;Welcome+to+my+Universe&font=Montserrat&weight=900&center=true&width=550&height=60&color=0e75b6&vCenter=true&pause=200&startDelay=0" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=rone221&label=Profile%20views&color=0e75b6&style=flat" alt="rone221" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rone221&label=Profile%20Views&color=0e75b6&style=flat-square" alt="rone221" />
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rone221&margin-w=15&margin-h=15" alt="rone221" />
-  </a> 
+<p align="center">
+ I'm an avid developer passionate about building robust applications.
+ <br>
+ 💻 All my projects are available at <b><a href="https://ronedev.tech">ronedev.tech</a></b>
 </p>
 
----
-
-- 🔭 I’m currently working on **Laravel**
-
-- 🌱 I’m currently learning **React JS, Laravel, SpringBoot**
-
-- 👨‍💻 All of my projects are available at **[arona.terangadev.com](https://arona.terangadev.com)**
-
-- 📫 How to reach me: **arona.tounkaraa@gmail.com**
-
-- ⚡ Fun fact: **Why do programmers prefer dark mode? Because light attracts bugs!**
-
----
-
-<h3 align="left">Connect with me:</h3>
-
-<div align="left">
-  <a href="https://instagram.com/r.o.n.e221" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="mailto:arona.tounkaraa@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
+<div align="center">
   <a href="https://www.linkedin.com/in/arona-tounkara221" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
-  <a href="https://teckki.slack.com/team/U066DPY7T7F" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo" />
+  <a href="mailto:atounkara203@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
   <a href="https://tryhackme.com/p/Rone2.0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo" />
+    <img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" height="30"/>
+  </a>
+  <a href="https://instagram.com/r.o.n.e221" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
   </a>
 </div>
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-</p>
+<div align="center">
+  <code>⚡ "Why do programmers prefer dark mode? Because light attracts bugs!" ⚡</code>
+</div>
 
 <br>
 
-<h3>📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=80&section=header&text=Languages%20and%20Frameworks&fontSize=25&fontColor=ffffff&fontAlignY=40" width="100%" alt="header" />
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rone221&show_icons=true&locale=en" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rone221&show_icons=true&locale=en&layout=compact" height="180" alt="languages graph" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,spring,php,java,js,html,css,mysql,linux,git,docker,figma,arduino,c,bootstrap&perline=8&theme=dark" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=80&section=header&text=GitHub%20Analytics&fontSize=25&fontColor=ffffff&fontAlignY=40" width="100%" alt="header" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rone221&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rone221&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=rone221&" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=rone221&theme=tokyonight&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="streak graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rone221&theme=flat&no-bg=true&margin-w=10&margin-h=10" alt="rone221 trophies" />
+  </a>
 </div>
