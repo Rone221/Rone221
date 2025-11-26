@@ -11,7 +11,7 @@
 <p align="center">
  I'm an avid developer passionate about building robust applications.
  <br>
- 💻 All my projects are available at <b><a href="https://ronedev.tech">ronedev.tech</a></b>
+ 💻 All my projects are available at <b><a href="https://arona.terangadev.com">arona.terangadev.com</a></b>
 </p>
 
 <div align="center">
@@ -41,12 +41,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=80&section=header&text=Languages%20and%20Frameworks&fontSize=25&fontColor=ffffff&fontAlignY=40" width="100%" alt="header" />
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,spring,php,java,js,html,css,mysql,linux,git,docker,figma,arduino,c,bootstrap&perline=8&theme=dark" />
-</div>
+  
+  <br>
+  <b>🎨 Frontend & Mobile</b><br>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,flutter,vite&theme=dark" />
+  
+  <br><br>
 
+  <b>⚙️ Backend & Systems</b><br>
+  <img src="https://skillicons.dev/icons?i=laravel,php,spring,java,python,c,cs,nodejs,express&theme=dark" />
+  
+  <br><br>
+
+  <b>🛠️ Database, DevOps & Tools</b><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,docker,nginx,linux,git,postman,grafana&theme=dark" />
+
+</div>
 <br>
 
 <div align="center">
